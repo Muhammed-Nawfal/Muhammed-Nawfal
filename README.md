@@ -8,8 +8,8 @@
 
 ## 🛠 Tech Stack  
 
-💡 **Languages:** Java, JavaScript, TypeScript, Dart, SQL  
-⚙️ **Frameworks:** React, Spring Boot, Flutter, Node.js  
+💡 **Languages:** Java, JavaScript, TypeScript, Dart, C, SQL, Haskell  
+⚙️ **Frameworks:** React, Spring Boot, Flutter, Angular, JHipster
 🗄 **Database:** PostgreSQL  
 🔧 **Other Tools:** Git, GitHub, Agile  
 
