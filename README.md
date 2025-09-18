@@ -10,7 +10,7 @@
 
 💡 **Languages:** Java, JavaScript, TypeScript, Dart, C, SQL, Haskell  
 ⚙️ **Frameworks:** React, Spring Boot, Flutter, Angular, JHipster
-🗄 **Database:** PostgreSQL  
+🔧 **Database:** PostgreSQL  
 🔧 **Other Tools:** Git, GitHub, Agile  
 
 ## 🌐 Connect with me  
