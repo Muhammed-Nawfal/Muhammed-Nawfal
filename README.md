@@ -13,6 +13,10 @@
 🗄 **Database:** PostgreSQL  
 🔧 **Other Tools:** Git, GitHub, Agile  
 
+## 🌐 Connect with me  
+[LinkedIn](https://www.linkedin.com/in/muhammed-nawfal/) · [GitHub](https://github.com/Muhammed-Nawfal) · [Email](mailto:muhammednawfal28@gmail.com)  
+
+
 
 
 <!--
