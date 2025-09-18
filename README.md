@@ -13,12 +13,14 @@
 🔧 **Database:** PostgreSQL  
 🔧 **Other Tools:** Git, GitHub, Agile  
 
+
 ## 🎯 Beyond Tech  
 - 🏋️ Hitting the gym
 - 🎬 Watching series & movies  
 - ✈️ Love traveling and exploring new places  
 - 🎮 Playing games (sometimes!)  
-- 🎉 Going out and trying new experiences  
+- 🎉 Going out and trying new experiences
+
 
 ## 🌐 Connect with me  
 [LinkedIn](https://www.linkedin.com/in/muhammed-nawfal/) · [GitHub](https://github.com/Muhammed-Nawfal) · [Email](mailto:muhammednawfal28@gmail.com)  
